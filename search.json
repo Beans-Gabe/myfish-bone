@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "just to exist"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Gabriel Medeles",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects.html#career-aspiration",
+    "href": "projects.html#career-aspiration",
+    "title": "Gabriel Medeles",
+    "section": "Career Aspiration",
+    "text": "Career Aspiration\nI aspire to work in digital/product marketing with a focus on data analytics and user behavior."
+  },
+  {
+    "objectID": "projects.html#skills",
+    "href": "projects.html#skills",
+    "title": "Gabriel Medeles",
+    "section": "Skills",
+    "text": "Skills\n\nR Programming\nData Visualization\nMarketing Analytics"
+  },
+  {
+    "objectID": "projects.html#education",
+    "href": "projects.html#education",
+    "title": "Gabriel Medeles",
+    "section": "Education",
+    "text": "Education\n\nB.S. in Business with a focus in Marketing Management"
+  },
+  {
+    "objectID": "shiny-live.html",
+    "href": "shiny-live.html",
+    "title": "shinylive",
+    "section": "",
+    "text": "Shinylive is a new way to run Shiny apps directly in the browser — without needing a server. It’s designed for teaching, demos, and small apps that don’t need to constantly communicate with a backend server.\nShinylive runs your Shiny app completely in the user’s browser using a technology called WebAssembly. This means everything runs locally — nothing is sent back and forth to a server."
+  },
+  {
+    "objectID": "shiny-live.html#what-is-shinylive",
+    "href": "shiny-live.html#what-is-shinylive",
+    "title": "shinylive",
+    "section": "",
+    "text": "Shinylive is a new way to run Shiny apps directly in the browser — without needing a server. It’s designed for teaching, demos, and small apps that don’t need to constantly communicate with a backend server.\nShinylive runs your Shiny app completely in the user’s browser using a technology called WebAssembly. This means everything runs locally — nothing is sent back and forth to a server."
+  },
+  {
+    "objectID": "shiny-live.html#how-is-shinylive-different-from-traditional-shiny",
+    "href": "shiny-live.html#how-is-shinylive-different-from-traditional-shiny",
+    "title": "shinylive",
+    "section": "How is Shinylive Different from Traditional Shiny?",
+    "text": "How is Shinylive Different from Traditional Shiny?\n\n\n\n\n\n\n\n\nFeature\nTraditional Shiny\nShinylive\n\n\n\n\nRuns on\nA server (e.g., shinyapps.io)\nDirectly in the web browser\n\n\nRequires server setup\nYes\nNo\n\n\nNeeds internet?\nUsually, yes\nNo (if the page is saved locally)\n\n\nGood for heavy data?\nYes\nNo — limited by browser resources\n\n\nApp responsiveness\nDepends on server speed\nVery fast, since it’s local"
+  },
+  {
+    "objectID": "shiny-live.html#pros-of-shinylive",
+    "href": "shiny-live.html#pros-of-shinylive",
+    "title": "shinylive",
+    "section": "Pros of Shinylive",
+    "text": "Pros of Shinylive\n\nNo server needed: You don’t need to deploy to shinyapps.io or set up a server.\nEasy to share: You can publish it with Quarto to GitHub Pages or Quarto Pub.\nFaster loading: Since it runs in the browser, there’s no server delay.\nGreat for teaching/demos: Perfect for lightweight apps and simple data visualizations."
+  },
+  {
+    "objectID": "shiny-live.html#cons-of-shinylive",
+    "href": "shiny-live.html#cons-of-shinylive",
+    "title": "shinylive",
+    "section": "Cons of Shinylive",
+    "text": "Cons of Shinylive\n\nLimited performance: Can’t handle large datasets or complex back-end calculations.\nBrowser-dependent: Only works well in modern browsers.\nNo long-term storage: Can’t save user inputs or connect to databases.\nSecurity: All your code is visible in the browser (since there’s no server)."
+  },
+  {
+    "objectID": "shiny-live.html#summary",
+    "href": "shiny-live.html#summary",
+    "title": "shinylive",
+    "section": "Summary",
+    "text": "Summary\nShinylive is an exciting way to make simple Shiny apps more accessible. It’s ideal for educational purposes, small dashboards, and quick demos — especially when you don’t want to manage server hosting. However, for more complex applications with large data or secure back-end logic, traditional Shiny is still the way to go."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriel Medeles",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#career-aspiration",
+    "href": "index.html#career-aspiration",
+    "title": "Gabriel Medeles",
+    "section": "Career Aspiration",
+    "text": "Career Aspiration\nI aspire to work in digital/product marketing with a focus on data analytics and user behavior."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Gabriel Medeles",
+    "section": "Skills",
+    "text": "Skills\n\nR Programming\nData Visualization\nMarketing Analytics"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gabriel Medeles",
+    "section": "Education",
+    "text": "Education\n\nB.S. in Business with a focus in Marketing Management"
+  }
+]

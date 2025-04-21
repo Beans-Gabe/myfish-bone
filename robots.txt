@@ -1,0 +1,1 @@
+Sitemap: https://beans.quarto.pub/website-quarto-pub1/sitemap.xml
