@@ -1,0 +1,33 @@
+---
+title: "Gabriel Medeles"
+subtitle: "website-quarto-pub1"
+format: html
+about:
+  template: jolla 
+  image: IMG_9564.jpeg 
+  links:
+    - icon: github 
+      text: Github
+      href: https://github.com/Beans-Gabe/portfolio-website-demo
+    - icon: linkedin 
+      text: LinkedIn 
+      href: https://www.linkedin.com/in/gabriel-medeles-b00087234/
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Career Aspiration
+
+I aspire to work in digital/product marketing with a focus on data analytics and user behavior.
+
+## Skills
+
+-   R Programming
+-   Data Visualization
+-   Marketing Analytics
+
+## Education
+
+-   B.S. in Business with a focus in Marketing Management
