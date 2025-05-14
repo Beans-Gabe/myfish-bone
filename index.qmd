@@ -1,6 +1,6 @@
 ---
 title: "Gabriel Medeles"
-subtitle: "website-quarto-pub1"
+subtitle: "Temecula, CA | Tuesday, May 20, 2025"
 format: html
 about:
   template: jolla 
@@ -13,10 +13,6 @@ about:
       text: LinkedIn 
       href: https://www.linkedin.com/in/gabriel-medeles-b00087234/
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ## Career Aspiration
 

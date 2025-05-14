@@ -1,10 +1,10 @@
 ---
-title: "My Resume"
+title: "My Resume" 
 format: html
 project:
 execute: 
   resources:
-    - Medeles-Gabriel-Resume1.docx.pdf
+    - Medeles-Gabriel-Resume1.docx.pdf 
 ---
 
 # Resume

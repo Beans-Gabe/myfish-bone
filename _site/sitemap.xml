@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://beans.quarto.pub/website-quarto-pub1/about.html</loc>
-    <lastmod>2025-04-21T03:23:57.518Z</lastmod>
-  </url>
-  <url>
-    <loc>https://beans.quarto.pub/website-quarto-pub1/projects.html</loc>
-    <lastmod>2025-04-21T02:32:46.531Z</lastmod>
-  </url>
-  <url>
-    <loc>https://beans.quarto.pub/website-quarto-pub1/shiny-live.html</loc>
-    <lastmod>2025-04-21T03:21:32.421Z</lastmod>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/my-resume.html</loc>
+    <lastmod>2025-05-14T05:12:02.042Z</lastmod>
   </url>
   <url>
     <loc>https://beans.quarto.pub/website-quarto-pub1/index.html</loc>
+    <lastmod>2025-05-14T04:12:12.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/shiny-live.html</loc>
+    <lastmod>2025-05-14T04:39:39.190Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/website-quarto-pub1/about.html</loc>
+    <lastmod>2025-04-21T03:23:57.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/website-quarto-pub1/projects.html</loc>
+    <lastmod>2025-04-21T02:32:46.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/website-quarto-pub1/shiny-live.html</loc>
+    <lastmod>2025-04-21T03:21:32.421Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/website-quarto-pub1/index.html</loc>
     <lastmod>2025-04-21T02:44:12.594Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/resume.html</loc>
+    <lastmod>2025-05-14T04:35:31.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/projects.html</loc>
+    <lastmod>2025-05-14T04:10:14.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://beans.quarto.pub/website-quarto-pub1/about.html</loc>
+    <lastmod>2025-04-21T03:23:57.518Z</lastmod>
   </url>
 </urlset>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>shinylive – My Fish-Bone</title>
+<title>My Resume – My Fish-Bone</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -101,8 +101,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./shiny-live.html" aria-current="page"> 
-<span class="menu-text">Essay on Shinylive/Shiny Apps</span></a>
+    <a class="nav-link" href="./my-resume.html"> 
+<span class="menu-text">Resume</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -112,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -120,25 +120,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-is-shinylive" id="toc-what-is-shinylive" class="nav-link active" data-scroll-target="#what-is-shinylive">What is Shinylive?</a></li>
-  <li><a href="#how-is-shinylive-different-from-traditional-shiny" id="toc-how-is-shinylive-different-from-traditional-shiny" class="nav-link" data-scroll-target="#how-is-shinylive-different-from-traditional-shiny">How is Shinylive Different from Traditional Shiny?</a></li>
-  <li><a href="#pros-of-shinylive" id="toc-pros-of-shinylive" class="nav-link" data-scroll-target="#pros-of-shinylive">Pros of Shinylive</a></li>
-  <li><a href="#cons-of-shinylive" id="toc-cons-of-shinylive" class="nav-link" data-scroll-target="#cons-of-shinylive">Cons of Shinylive</a></li>
-  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#resume" id="toc-resume" class="nav-link active" data-scroll-target="#resume">Resume</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">shinylive</h1>
+<h1 class="title">My Resume</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -150,80 +146,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="what-is-shinylive" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-shinylive">What is Shinylive?</h2>
-<p><strong>Shinylive</strong> is a new way to run Shiny apps <strong>directly in the browser</strong> — without needing a server. It’s designed for teaching, demos, and small apps that don’t need to constantly communicate with a backend server.</p>
-<p>Shinylive runs your Shiny app <strong>completely in the user’s browser</strong> using a technology called WebAssembly. This means everything runs locally — nothing is sent back and forth to a server.</p>
-<hr>
-</section>
-<section id="how-is-shinylive-different-from-traditional-shiny" class="level2">
-<h2 class="anchored" data-anchor-id="how-is-shinylive-different-from-traditional-shiny">How is Shinylive Different from Traditional Shiny?</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 26%">
-<col style="width: 33%">
-<col style="width: 40%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Feature</th>
-<th>Traditional Shiny</th>
-<th>Shinylive</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Runs on</td>
-<td>A server (e.g., shinyapps.io)</td>
-<td>Directly in the web browser</td>
-</tr>
-<tr class="even">
-<td>Requires server setup</td>
-<td>Yes</td>
-<td>No</td>
-</tr>
-<tr class="odd">
-<td>Needs internet?</td>
-<td>Usually, yes</td>
-<td>No (if the page is saved locally)</td>
-</tr>
-<tr class="even">
-<td>Good for heavy data?</td>
-<td>Yes</td>
-<td>No — limited by browser resources</td>
-</tr>
-<tr class="odd">
-<td>App responsiveness</td>
-<td>Depends on server speed</td>
-<td>Very fast, since it’s local</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="pros-of-shinylive" class="level2">
-<h2 class="anchored" data-anchor-id="pros-of-shinylive">Pros of Shinylive</h2>
-<ul>
-<li><strong>No server needed</strong>: You don’t need to deploy to shinyapps.io or set up a server.</li>
-<li><strong>Easy to share</strong>: You can publish it with Quarto to GitHub Pages or Quarto Pub.</li>
-<li><strong>Faster loading</strong>: Since it runs in the browser, there’s no server delay.</li>
-<li><strong>Great for teaching/demos</strong>: Perfect for lightweight apps and simple data visualizations.</li>
-</ul>
-<hr>
-</section>
-<section id="cons-of-shinylive" class="level2">
-<h2 class="anchored" data-anchor-id="cons-of-shinylive">Cons of Shinylive</h2>
-<ul>
-<li><strong>Limited performance</strong>: Can’t handle large datasets or complex back-end calculations.</li>
-<li><strong>Browser-dependent</strong>: Only works well in modern browsers.</li>
-<li><strong>No long-term storage</strong>: Can’t save user inputs or connect to databases.</li>
-<li><strong>Security</strong>: All your code is visible in the browser (since there’s no server).</li>
-</ul>
-<hr>
-</section>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>Shinylive is an exciting way to make simple Shiny apps more accessible. It’s ideal for educational purposes, small dashboards, and quick demos — especially when you don’t want to manage server hosting. However, for more complex applications with large data or secure back-end logic, traditional Shiny is still the way to go.</p>
+<section id="resume" class="level1">
+<h1>Resume</h1>
+<p><a href="Medeles-Gabriel-Resume1.docx.pdf">Download Resume as PDF HERE</a>.</p>
+<iframe src="Medeles-Gabriel-Resume1.docx.pdf" width="100%" height="600px">
+</iframe>
 
 
 </section>
